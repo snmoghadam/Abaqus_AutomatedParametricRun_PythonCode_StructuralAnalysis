@@ -1,0 +1,1 @@
+# Abaqus_Automated_Structural_Python_ParametricRun
